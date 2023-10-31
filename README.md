@@ -18,7 +18,7 @@ TA & Grader: Sneh Pandya, ``pandya.sne@northeastern.edu``
 
 **Course Location:** EXP 201! (Excitement, not factorial).
 
-**Office Hours:** I will hold office hours in Dana 226, TF 11:30-12:30. Due to the dynamic nature of the material and schedules, I will also answer questions on Slack for one hour per week. To take advantage of this, post a question in ``#ask-jim`` and I will respond in the order the are asked. These should be higher level questions regarding the science and algorithms in the class and in your homework. For "my code won't run" level questions, ask your classmates for help in ``#debugging``, and if you're really stuck, in ``#ask-sneh``. 
+**Office Hours:** I will hold office hours in Dana 226, MTRF 11:30-12:00. Due to the dynamic nature of the material and schedules, I will also answer questions on Slack for one hour per week. To take advantage of this, post a question in ``#ask-jim`` and I will respond in the order the are asked. These should be higher level questions regarding the science and algorithms in the class and in your homework. For "my code won't run" level questions, ask your classmates for help in ``#debugging``, and if you're really stuck, in ``#ask-sneh``. 
 
 **Lectures:** I'll type code and we will debug in real time. Pedagogically, I think this makes sense. Let's talk about it.
 
@@ -48,7 +48,7 @@ This list covers a broad swath of the recent progress in ML, and in each case we
 For most of you, maximizing your strengths in these areas will be extremely useful to your Ph.D. research. These skills also have much broader application, e.g. in many different types of industry, where you may one day work.
 
 
-**Resources:** Given the constantly evolving nature of the subject, my lectures will rely on a number of different resources, including some written by friends. Two excellent resources for the intersection of physics and ML are:
+**Resources:** Given the constantly evolving nature of the subject, my lectures will rely on a number of different resources, including some written by friends: I am indebted to Fabian Ruehle, Sven Krippendorf, and especially Adrian Feiguin for sharing their resources. Two excellent resources for the intersection of physics and ML are:
 - [IAIFI](http://www.iaifi.org), officially the NSF AI Institute for Artificial Intelligence and Fundamental Interactions, an interdisciplinary institute with a focus on the intersection of AI and physics in collaboration between Northeastern, MIT, Harvard, and Tufts.
 - [Physics $\cap$ ML](http://www.physicsmeetsml.org), pronounced "Physics Meets ML," a virtual seminar series organized by myself and some friends that builds on a meeting we ran at Microsoft Research in 2019.
 
@@ -112,7 +112,6 @@ Topics are organized by order of presentation, not by strict adherence to the ca
     1. **Correctness.** If it's not correct, it's not useful.
     2. **Efficiency.** Even if it's correct, it might be so slow that it's not useful. Or, making it faster might make it *more* useful, opening up new scientific possibilities. Making a code more efficient often requires careful thought with respect to algorithm choice / development, especially as it regards computational complexity.
     3. **Beauty.** In addition to correctness and efficiency, beauty / readability also matters. 
-    
     
     Our lectures and homeworks will generally focus on correctness. If you're looking for more of a challenge, I strongly encourage you to "level up" by making your code more efficient and readable. If you go above and beyond, Sneh and I will take it into account as potential extra credit. It'll also just make you a stronger computational physicist.
 
